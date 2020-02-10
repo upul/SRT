@@ -1,4 +1,4 @@
-# SRT
+# SRT (WIP)
 
 https://github.com/pymc-devs/resources/tree/master/Rethinking
 
