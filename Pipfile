@@ -12,6 +12,8 @@ scipy = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+jupyter = "*"
+sklearn = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3."
